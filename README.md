@@ -41,18 +41,4 @@ A machine learning project that predicts house prices based on features like loc
 - Python 3
 - Google Colab
 
----
 
-## 📁 Repository Structure
-```
-├── House_Price_Prediction.ipynb
-├── data/
-│   └── kc_house_data.csv
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 👤 Author
-**Muneeb** — [GitHub Profile](https://github.com/Muneeb850)
